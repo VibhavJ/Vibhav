@@ -117,7 +117,7 @@
 
 .contactme:hover{
   color: #00796b;
-  background-color: white;
+   : white;
 }
 /* main body */
 
@@ -356,7 +356,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: #b1dcfb;
   height: 100%;
   left: 0;
   position: absolute;
